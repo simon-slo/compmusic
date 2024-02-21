@@ -5,3 +5,6 @@ The corpus consists of two playlists. One of these playlists consists "finished"
 
 I have made two plots. The first one compares the energy levels in the instrumental versions and the versions with vocals in a histogram. Here, you can see that the median lies significantly higher in the versions with vocals. This would suggest that adding vocals over an instrumental gives the song more intensity and activity.
 In the other graph, where valence is mapped out in a similar histogram, you can see a similar pattern as in the energy histogram. In the versions with vocals, the vast majority of the songs have an energy level greater than 0.3, while there is a significantly bigger portion of the songs that fall underneath that threshold in the instrumental versions.
+
+
+testtesttesttest
